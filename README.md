@@ -28,7 +28,7 @@ cd into the directory.
 
 ```cd OpenCV-Live-Feed```
 
-We need to install the proper libraries in the application's virtual environment. The libraries needed are listed in requirements.txt, so we just pip3 this text file.
+We need to install the proper libraries in the application's virtual environment. The libraries needed (Flask, Numpy, OpenCV, etc) are listed in requirements.txt, so we just have pip install this text file. 
 
 ```pip3 install -r requirements.txt```
 

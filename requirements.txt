@@ -1,0 +1,5 @@
+flask
+numpy
+opencv-python-headless==4.2.0.32 #Use 'headless' package for heroku deployment
+imutils
+

@@ -46,7 +46,7 @@ First, navigate to ngrok.com, sign up for the free service, and download ngrok t
 
 If it isn't alraedy, get the application up and running on port 8004. 
 
-```python3 webstreaming.py -i 0.0.0.0 --port 8004```
+```python3 webstreaming.py --i 0.0.0.0 --port 8004```
 
 Now open a new Terminal or command line window. Navigate into the ngrok directory, the type in the following command to open an HTTP tunnel to your local port 8004, where the video feed application is accessible.
 

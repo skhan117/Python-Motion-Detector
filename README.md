@@ -34,7 +34,7 @@ We need to install the proper libraries in the application's virtual environment
 
 Get the application up and running on your machine with the following command. The application will be accessible on your machine on port 8004.
 
-```python3 webstreaming.py -i 0.0.0.0 --port 8004```
+```python3 webstreaming.py --i 0.0.0.0 --port 8004```
 
 Now open a web browser and enter "http://localhost:8004" into your search bar. You should be able to see a live video feed being pulled from your webcam. While you're in view of the video frame, move your arms to confirm that the application detects motions and superimposes red squares onto moving body parts. 
 

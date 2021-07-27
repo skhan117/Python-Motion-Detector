@@ -14,7 +14,7 @@ Enter Terminal on Mac or the command line on Windows. Navigate to your home dire
 
 Start a virtual environment for this project named "venv". A virtual environment (or virtualenv) allows an application to have its own set of installed packages that are independent of those on your machine.
 
-```virtuelenv venv```
+```virtualenv venv```
 
 Activate the virtual environment.
 
